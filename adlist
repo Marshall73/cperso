@@ -8,7 +8,7 @@
 ! 
 
 ! daftporn.com
-daftporn.com||go.xlivrdr.com/i
+||daftporn.com/go.xlivrdr.com/i
 ! ##[href^="https://www.daftporn.com/out.php"] > h3
 daftporn.com##.rightcolumn
 daftporn.com##.belowplayer
