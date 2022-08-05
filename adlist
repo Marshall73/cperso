@@ -9,6 +9,7 @@
 
 !daftporn.com
 ||go.xlivrdr.com/i
+##[href^="https://www.daftporn.com/out.php"] > h3
 ##.rightcolumn
 ##.belowplayer
 ##.belowplayer2
