@@ -7,15 +7,30 @@
 ! 
 ! 
 
-!daftporn.com
-||go.xlivrdr.com/i
+! daftporn.com
+daftporn.com||go.xlivrdr.com/i
 ! ##[href^="https://www.daftporn.com/out.php"] > h3
-##.rightcolumn
-##.belowplayer
-##.belowplayer2
-##.classban
+daftporn.com##.rightcolumn
+daftporn.com##.belowplayer
+daftporn.com##.belowplayer2
+daftporn.com##.classban
 
+! elitepvpers.com
+www.elitepvpers.com##.smallfont.thead
+||www.elitepvpers.com/images/ublock-censor-regime.png$image
 
+! dexerto.fr
+www.dexerto.fr##.desktop-jwplayer.text-white.bg-gray-800.featured-video-full-width.flex-col.flex
+
+! nokenny.co
+www.nokenny.co###principal > .p-2.dark\:bg-palette-0-dark.bg-palette-0.mb-2
+
+! theync.com
+theync.com##.col.col-full.content-banner
+theync.com###top-banner > .wrapper > .row > .col.col-full
+theync.com##.header-banner
+theync.com##.header-second-row.row
+theync.com###top-menu > ul > li > [href]
 
 
 
